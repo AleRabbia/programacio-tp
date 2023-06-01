@@ -1,5 +1,5 @@
 Proceso ejemplo	
-	Escribir "Hola Mundo!"
+	Escribir "Hola Mundo!!!!"
 	
 	
 FinProceso
